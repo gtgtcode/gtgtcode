@@ -6,13 +6,13 @@ I'm a full stack web developer. Welcome to my GitHub profile! Here, you'll find 
 I'm currently working on open source projects, I want to help out the community while I'm in-between my own projects.
 
 ## 🌱 Learning
-I'm always learning new things! Currently, I'm learning about machine learning and data science. I'm also interested in learning more about blockchain technology and how it can be applied to different industries.
+I'm always learning new things! Currently, I'm learning about more backend technologies. I'm also interested in experimenting more with different APIs.
 
 ## 💬 Ask Me About
-JavaScript
-React
-Node.js
-MongoDB
+* JavaScript
+* React
+* Node.js
+* MongoDB
 
 ## 📫 How to Reach Me
 Feel free to connect with me on LinkedIn or send me an email at glthomas526@gmail.com.
