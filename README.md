@@ -14,7 +14,7 @@ React
 Node.js
 MongoDB
 
-##📫 How to Reach Me
+## 📫 How to Reach Me
 Feel free to connect with me on LinkedIn or send me an email at glthomas526@gmail.com.
 
 ## ⚡ Fun Fact
