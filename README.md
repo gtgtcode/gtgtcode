@@ -1,4 +1,4 @@
-### Hello! My name is George. Nice to meet you! 👋
+# Hello! My name is George. Nice to meet you! 👋
 
 I'm a full stack web developer. Welcome to my GitHub profile! Here, you'll find some of my personal and professional projects that I've worked on.
 
@@ -17,7 +17,4 @@ I'm always learning new things! Currently, I'm learning about more backend techn
 ## 📫 How to Reach Me
 Feel free to connect with me on LinkedIn or send me an email at glthomas526@gmail.com.
 
-## ⚡ Fun Fact
-I love playing video games and cooking! In my free time, I like to try out all types of new recipes.
-
-Thanks for stopping by my profile!
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gtgtcode/)<br />
