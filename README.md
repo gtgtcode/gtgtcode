@@ -3,10 +3,10 @@
 I'm a full stack web developer. Welcome to my GitHub profile! Here, you'll find some of my personal and professional projects that I've worked on.
 
 ## 🔭 Currently Working On
-I'm currently working on open source projects, I want to help out the community while I'm in-between my own projects.
+I'm currently working on a brand new website for a coffee company.
 
 ## 🌱 Learning
-I'm always learning new things! Currently, I'm learning about more backend technologies. I'm also interested in experimenting more with different APIs.
+I'm always learning new things! Currently, I'm practicing my MongoDB skills and learning about ecommerce APIs like the PayPal and Stripe APIs.
 
 ## 💬 Ask Me About
 * JavaScript
