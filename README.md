@@ -3,14 +3,14 @@
 I'm a full stack web developer. Welcome to my GitHub profile! Here, you'll find some of my personal and professional projects that I've worked on.
 
 ## 🔭 Currently Working On
-I'm currently working on a brand new website for a coffee company.
+I'm currently working on getting my Computer Science degree!
 
 ## 🌱 Learning
-I'm always learning new things! Currently, I'm practicing my MongoDB skills and learning about ecommerce APIs like the PayPal and Stripe APIs.
+I'm always learning new things! Right now, I'm learning about algorithms and learning how to use the Java programming language.
 
 ## 💬 Ask Me About
 * JavaScript
-* React
+* Next.js
 * Node.js
 * MongoDB
 
