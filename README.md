@@ -3,10 +3,10 @@
 I'm a full stack web developer. Welcome to my GitHub profile! Here, you'll find some of my personal and professional projects that I've worked on.
 
 ## 🔭 Currently Working On
-I'm currently working on getting my Computer Science degree!
+I'm currently working on a simple web browser based on Next.js and Electron!
 
 ## 🌱 Learning
-I'm always learning new things! Right now, I'm learning about algorithms and learning how to use the Java programming language.
+I'm always learning new things! Right now, I'm learning about how to use Electron to develop standalone desktop applications.
 
 ## 💬 Ask Me About
 * JavaScript
